@@ -16,6 +16,7 @@ body {
 	background-color: rgb(102, 102, 102);
 	text-align: center;
 	  display: flex;
+	  padding: 4vw;
   }
   p {
 	background-color: rgba(255, 255, 255, 0.5);
@@ -27,7 +28,6 @@ body {
 	font-family:Arial, Helvetica, sans-serif;
   }
   img {
-	  width: 30vw;
-	  align-content:center;
+	  width: 50vw;
 	text-align: center;
   }
