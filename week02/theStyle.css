@@ -1,10 +1,9 @@
 body {
-	background-color: rgba(250,0,0);
+	background-color: rgba(100, 100, 100, 0.712);
   }
   
   h3 {
-	background-color: rgba(255,255,255,.5);
-	border:  solid black;
+	background-color:white);
 	padding: 2vw;
 	margin: 3vh;
   }
@@ -14,21 +13,21 @@ body {
 	  border-radius:
   }
   div {
-	background-color: green;
+	background-color: rgb(102, 102, 102);
 	text-align: center;
 	  display: flex;
   }
   p {
-	background-color: rgba(200,0,100,.5);
+	background-color: rgba(255, 255, 255, 0.5);
 	position: absolute;
 	  font-size: 36px;
 	  padding: 4vw;
-	  color: white;
+	  color:black;
 	bottom: 200px;
-	font-family: Avenir;
+	font-family:Arial, Helvetica, sans-serif;
   }
   img {
-	  width: 40vw;
+	  width: vw;
 	
   text-align: center;
   }
