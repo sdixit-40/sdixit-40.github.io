@@ -13,7 +13,7 @@ function preload() {
 }
 
 function setup() {
-  mySound.setVolume(0.5);
+  mySound.setVolume(1.0);
   mySound.play();
   createCanvas(400, 400);
   background(r,g,b);
