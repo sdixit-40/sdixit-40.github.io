@@ -1,11 +1,13 @@
 html, body {
 	margin: 0;
   padding: 0;
-  color: darkslategrey;
+  background-color: darkslategrey;
+color: red;
   }
   canvas {
 	display: block;
   }
 h2{
-  font-color: red;
+  color: red;
+  background-color: 255,255,255,80;
 }
