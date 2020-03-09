@@ -4,13 +4,10 @@ html, body {
   background-color: darkslategrey;
 color: red;
   }
-
   canvas {
 	display: block;
   }
-
 h2{
-  font-size: large;
   color: red;
   background-color: 255,255,255,80;
 }
