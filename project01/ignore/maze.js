@@ -8,8 +8,13 @@ let b=240;
 let g=0;
 let lc;
 
-function setup() {
+function preload() {
+  mySound = loadSound('music.mp3');
+}
 
+function setup() {
+  mySound.setVolume(0.5);
+  mySound.play();
   createCanvas(400, 400);
   background(r,g,b);
   r=+2;
