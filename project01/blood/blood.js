@@ -14,6 +14,7 @@ var col={
   
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  background(80);
    
 }
 
@@ -26,5 +27,4 @@ let o=random(80,200);
   
   fill(200,0,0,o);
   ellipse(blood.x,blood.y,s,s);
-}
 }
