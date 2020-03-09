@@ -9,7 +9,7 @@ let g=0;
 let lc;
 
 function preload() {
-  mySound = loadSound('music.mp3');
+  mySound = loadSound('footsteps.mp3');
 }
 
 function setup() {
