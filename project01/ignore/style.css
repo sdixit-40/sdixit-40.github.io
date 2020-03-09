@@ -1,7 +1,14 @@
 html, body {
 	margin: 0;
-	padding: 0;
+  padding: 0;
+  background-color: darkslategrey;
+color: red;
   }
   canvas {
 	display: block;
   }
+div{
+  font-size: large;
+  color: red;
+  background-color: 255,255,255,80;
+}
