@@ -1,7 +1,14 @@
   
 body {
-	background-color:rgb(252, 150, 236);
+	background-color:purple;
 	color: white;
 	font-size: 40px;
 	
+}
+a{
+	color: yellow;
+	text-decoration: none;
+}
+a:hover{
+	color: white;
 }
