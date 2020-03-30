@@ -1,5 +1,5 @@
 body {
-	background-color: coral;
+	background-color: cornflowerblue;
 }
 
 p {
@@ -14,9 +14,10 @@ h2 {
 
 }
 h4 {
+	color: whitesmoke;
 	font-family: monospace;
 	padding: 2vw;
-	background-color: cornflowerblue;
+	background-color: Black;
 }
 
 div {
