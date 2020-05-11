@@ -1,6 +1,7 @@
 function preload() {
-    data = loadJSON("https://raw.githubusercontent.com/dariusk/corpora/master/data/technology/new_technologies.json")
-  
+    //data = loadJSON("https://raw.githubusercontent.com/dariusk/corpora/master/data/technology/programming_languages_popular.json")
+    data = loadJSON("https://github.com/dariusk/corpora/blob/master/data/technology/new_technologies.json")
+  //
   
     //data from corpora, github
   }
@@ -141,7 +142,8 @@ function preload() {
     }
   
     //words
-    let words = data.technologies;
+    //let words = data.programming_languages_popular;
+    let words=data.technologies;
     let word = random(words); // select random word
     textSize(height/20)
     fill(255)
