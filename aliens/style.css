@@ -37,3 +37,7 @@ font-family: Arial, Helvetica, sans-serif;
 a:hover{
 	color: lightgreen;
 }
+
+ul {
+	list-style-type: circle;
+  }

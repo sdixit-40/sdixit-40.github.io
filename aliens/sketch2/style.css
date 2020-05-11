@@ -1,0 +1,21 @@
+html, body {
+  background-color:darkslategrey;
+  color: aliceblue;
+	margin: 0;
+	padding: 0;
+  }
+  canvas {
+	display: block;
+  }
+
+  button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    font-size: 2vw;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50%;
+  }
