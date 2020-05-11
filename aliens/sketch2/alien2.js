@@ -1,7 +1,8 @@
 function preload() {
     //data = loadJSON("https://raw.githubusercontent.com/dariusk/corpora/master/data/technology/programming_languages_popular.json")
-    data = loadJSON("https://github.com/dariusk/corpora/blob/master/data/technology/new_technologies.json")
+   // data = loadJSON("https://raw.githubusercontent.com/dariusk/corpora/master/data/technology/new_technologies.json");
   //
+  data=loadJSON("data.json");
   
     //data from corpora, github
   }
