@@ -158,8 +158,4 @@ function preload() {
     button.mousePressed(setup);
     //button.textSize=30 
   
-    let saveas=createButton('save');
-    saveas.position(3 * w / 4,  h / 6);
-    saveas.mousePressed(saveCanvas('alien.jpg'));
-  
   }
