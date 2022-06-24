@@ -96,6 +96,7 @@ function orb(){
       
        let button = createButton('new friend');
       button.position(300, 20);
-      button.mousePressed(setup);
+      //button.mousePressed(setup);
+        canvas.mousePressed(setup);
     }
     
