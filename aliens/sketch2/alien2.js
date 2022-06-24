@@ -155,7 +155,7 @@ function preload() {
   
     let button = createButton('new friend');
     button.position(4 * w / 5, h / 12);
-   canvas.mousePressed(setup);
+  button.mousePressed(setup);
     //button.textSize=30 
  
   }
