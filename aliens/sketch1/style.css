@@ -7,3 +7,14 @@ html, body {
   canvas {
 	display: block;
   }
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    font-size: 1.5vw;
+    color: white;
+    padding: 1vw;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 50%;
+  }
